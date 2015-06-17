@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Swift_Website/!svn/ver/162/admin/library/mailclass
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Swift_Website/!svn/ver/162/admin/library/mailclass/class.phpmailer.php
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Swift_Website/!svn/ver/162/admin/library/mailclass/class.smtp.php
+END
